@@ -73,4 +73,6 @@ The following flowchart illustrates the password validation process used in the 
 
 ## Approved Password
 
+The following screenshot shows an example of a password that satisfies all the required validation rules. The program successfully creates the user's account after confirming that the password meets the security requirements.
+
 ![Approved Password](approved_password.png)
