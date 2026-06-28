@@ -73,4 +73,4 @@ The following flowchart illustrates the password validation process used in the 
 
 ### Approved Password
 
-![Approved Password](approved_password.png)
+![Approved Password](approved password.png)
