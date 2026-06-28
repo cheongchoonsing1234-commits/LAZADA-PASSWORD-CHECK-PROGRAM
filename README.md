@@ -64,3 +64,9 @@ This project demonstrates:
 ## Author
 
 Cheong Choon Sing
+
+## Flowchart
+
+The following flowchart illustrates the password validation process used in the program.
+
+![Password Validation Flowchart](flowchart/password_validation_flowchart.png)
