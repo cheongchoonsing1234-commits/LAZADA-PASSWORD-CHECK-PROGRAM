@@ -27,7 +27,7 @@ A Python program that validates user-created passwords based on Lazada's passwor
 
 ## Technologies
 
-- Python 3
+- Python
 
 ## How to Run
 
