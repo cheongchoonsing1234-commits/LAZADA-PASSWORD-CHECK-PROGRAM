@@ -70,3 +70,7 @@ Cheong Choon Sing
 The following flowchart illustrates the password validation process used in the program.
 
 ![Flowchart](flowchart.png)
+
+### Approved Password
+
+![Approved Password](approved_password.png)
